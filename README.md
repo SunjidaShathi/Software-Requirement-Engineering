@@ -1,1 +1,3 @@
 # Software-Requirement-Engineering
+### Smart Home Automation System
+In the project, we developed a smart home automation system that is designed to meet the needs of modern homeowners who are looking for ways to enhance the comfort, convenience, and security of their homes. Our goal was to create a self-contained system that integrates with a variety of hardware devices and sensors, including smart thermostats, security cameras, and lighting fixtures. We developed the product to meet the growing demand for smart home automation systems in the consumer market and to differentiate ourselves from competitors.
